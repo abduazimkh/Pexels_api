@@ -111,3 +111,16 @@ header{
         
     }
 }
+
+@media only screen and (max-width: 1180px) {
+    header{
+        height: 50vh;
+        background: none;
+        background-color:dodgerblue;
+        .searc{
+            .btn{
+                background-color: blueviolet;
+            }
+        }
+    }
+}
